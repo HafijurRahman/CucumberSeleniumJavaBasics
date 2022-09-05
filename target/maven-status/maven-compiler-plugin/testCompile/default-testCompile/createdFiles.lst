@@ -1,0 +1,8 @@
+PF_Pages\TestProjectHomePage_PF.class
+StepDefinitions\BackgroundSteps.class
+POM_Pages\TestProjectLoginPage.class
+StepDefinitions\TestRunner.class
+StepDefinitions\LoginSteps.class
+PF_Pages\TestProjectLoginPage_PF.class
+StepDefinitions\GoogleSearchSteps.class
+StepDefinitions\TestProjectLoginSteps.class
